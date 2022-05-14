@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: process.env.NODE_ENV === "production" ? "/butterfly/" : "/",
+    publicPath: process.env.NODE_ENV === "production" ? "/3d-butterfly/" : "/",
 };
