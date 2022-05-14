@@ -9,4 +9,4 @@ Check it out here: https://versi-on.github.io/3d-butterfly/
 ![screenshot](./src/assets/img/screenshot-butterfly.jpg)
 
 
-<!-- ### [Live Demo](https://versi-on.github.io/3d-butterfly/) -->
+### [Live Demo](https://versi-on.github.io/3d-butterfly/)
