@@ -6,7 +6,7 @@ Check it out here: https://visi-on.github.io/3d-butterfly/
 
 ### Preview
 
-![screenshot](./src/assets/img/screenshot-butterfly.jpg)
+![screenshot](./src/assets/img/screen.gif)
 
 
 ### [Live Demo](https://visi-on.github.io/3d-butterfly/)
